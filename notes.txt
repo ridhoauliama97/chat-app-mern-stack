@@ -1,0 +1,1 @@
+mongodb+srv://kdzgmng:ridhoganteng66@cluster0.c2rfse6.mongodb.net
