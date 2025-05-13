@@ -4,7 +4,7 @@ import User from "../models/User.js";
 import bcrypt from "bcryptjs";
 
 // Sign Up a new User
-export const signup = async () => {
+export const signup = async (req, res) => {
   const { fullName, email, password, bio } = req.body;
 
   try {
